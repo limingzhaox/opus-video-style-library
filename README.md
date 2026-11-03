@@ -1,6 +1,6 @@
 # Opus 视频风格资料库
 
-77 个风格条目：59 个 Lemo 影片风格、18 个手作 MV 引擎。含案例图、作者视频链接、完整提示词与逐项注意事项。
+84 个风格条目：66 个 Lemo 影片风格、18 个手作 MV 引擎。含案例图、作者视频链接、完整提示词与逐项注意事项。
 
 - [打开在线图册](https://limingzhaox.github.io/opus-video-style-library/)
 - [给其他 AI 的入口](https://limingzhaox.github.io/opus-video-style-library/llms.txt)

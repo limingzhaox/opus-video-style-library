@@ -14,7 +14,7 @@
 
 Lemo STYLE.md 保留完整作者原文；18 项手作模板根据引擎说明整理，并非作者原始对话。中文任务模板由资料库整理。使用时另行克隆对应完整上游工程，交给可运行代码的 AI，并检查环境、声音、素材与短片预览。
 
-主要来源：[LemoLab](https://github.com/lemomo-ai/lemo-opuscar)、[Miranda Dixon-Luinenburg](https://github.com/cyborggirl963/opus-5.5-music-video-art-styles)。保留 MIT 文档许可；Lemo 示例图片按 CC BY 4.0 署名，经过缩放与编排；第三方素材与三项示例声音有例外，请阅读完整署名页。
+主要来源：[LemoLab](https://github.com/lemomo-ai/lemo-opuscar)、[Miranda Dixon-Luinenburg](https://github.com/cyborggirl963/opus-5.5-music-video-art-styles)。保留 MIT 文档许可；Lemo 示例图片按 CC BY 4.0 署名，经过缩放与编排；第三方素材与六项示例旁白有例外，请阅读完整署名页。
 
 ## 仓库与部署
 

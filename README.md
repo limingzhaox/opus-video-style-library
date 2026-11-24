@@ -1,6 +1,6 @@
 # Opus 视频风格资料库
 
-84 个风格条目：66 个 Lemo 影片风格、18 个手作 MV 引擎。含案例图、作者视频链接、完整提示词与逐项注意事项。
+117 个风格条目：99 个 Lemo 影片风格、18 个手作 MV 引擎。含案例图、作者视频链接、完整提示词与逐项注意事项。
 
 - [打开在线图册](https://limingzhaox.github.io/opus-video-style-library/)
 - [给其他 AI 的入口](https://limingzhaox.github.io/opus-video-style-library/llms.txt)
@@ -14,7 +14,7 @@
 
 Lemo STYLE.md 保留完整作者原文；18 项手作模板根据引擎说明整理，并非作者原始对话。中文任务模板由资料库整理。使用时另行克隆对应完整上游工程，交给可运行代码的 AI，并检查环境、声音、素材与短片预览。
 
-主要来源：[LemoLab](https://github.com/lemomo-ai/lemo-opuscar)、[Miranda Dixon-Luinenburg](https://github.com/cyborggirl963/opus-5.5-music-video-art-styles)。保留 MIT 文档许可；Lemo 示例图片按 CC BY 4.0 署名，经过缩放与编排；第三方素材与六项示例旁白有例外，请阅读完整署名页。
+主要来源：[Lemo-Opuscar by Lemomo (LemoLab)](https://github.com/lemomo-ai/lemo-opuscar)、[Miranda Dixon-Luinenburg](https://github.com/cyborggirl963/opus-5.5-music-video-art-styles)。Lemo 文档及其改编按 CC BY-NC 4.0 非商业共享，为自己的影片（含商业、客户影片）使用另有额外许可；代码为 MIT，示例图片可授权部分为 CC BY 4.0。手作库保留 MIT。图片经过缩放编排，第三方素材、六项旁白（含整片复用）、Clawd 与界面商标另有限制，详见署名页。吉祥物录屏与流场风线案例仅提供作者链接及标注清楚的查看入口占位图。
 
 ## 仓库与部署
 

@@ -5,7 +5,7 @@
 AI 入口：https://limingzhaox.github.io/opus-video-style-library/llms.txt
 以下相对路径均相对于在线图册根地址；也可读取完整离线包中的同名文件。
 
-更新日期：2026-11-10。当前 84 个风格条目。
+更新日期：2026-11-24。当前 117 个风格条目。
 这是供人和 AI 读取的静态资料，不是视频生成 API，也不包含全部渲染引擎。
 中文模板是资料库整理，Lemo STYLE.md 为作者原文；手作库没有被声称为作者原始对话。
 
@@ -29,3 +29,5 @@ AI 入口：https://limingzhaox.github.io/opus-video-style-library/llms.txt
 未执行渲染就不能声称已生成视频；示意热成像、虚构数据不能冒充真实观测。
 外部网址需要网络权限；公开网页可访问也不保证每个 AI 工具都能联网、执行代码或读取视频。
 授权与再发布看 ATTRIBUTION.md。
+Lemo 文档及其改编按 CC BY-NC 4.0 非商业共享；为自己的商业影片使用另有上游额外许可，不能将两者混为“整个资料库 MIT 可商用”。第三方资产、六项示例旁白（含整片复用）、Clawd 与界面商标不在通用授权内。
+imageStatus=external_only 时 localImage 是明确标注的查看入口占位图，只提供作者案例链接，不冒充风格样帧。逐项图片许可看 imageLicense / imageCopyright / creditsFile。
